@@ -9,12 +9,15 @@ shown in below screenshots:
 ![image4](https://user-images.githubusercontent.com/68840592/113093059-cc502780-920c-11eb-9235-7d77563d1218.jpg)
 ![image5](https://user-images.githubusercontent.com/68840592/113093063-cd815480-920c-11eb-8bc9-b0956840f305.jpg)
 
-Build an API which returns food items on the home
+Created an API which returns food items on the home
 page and other food items in the sub page.
 
-Build APIs to
+Created APIs to
+
 a. Add items to a cart
+
 b. Remove items from the cart
+
 c. Clear the cart data
 
 For using food related images in my application, downloaded images from sites like
