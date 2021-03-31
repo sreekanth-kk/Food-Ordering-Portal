@@ -1,0 +1,90 @@
+.App {
+  text-align: center;
+}
+
+/* Page Header */
+.header{
+  background-color: darkred;
+  color: white;
+  height: 50px;
+}
+.heading{
+  font-size: 30px;
+  color: white;
+}
+.header img{
+  width: 35px;
+  height: auto;
+  float: right;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.header div{
+  display: inline;
+}
+.item-count{
+  float: right;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-right: 20px;
+}
+
+/* Home Page */
+.home-page{
+  margin-left: 35%;
+  margin-right: 40%;
+  display: inline-flex;
+}
+/* .home-page div{
+  display: inline-flex;
+} */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.container {
+  padding: 2px 16px;
+}
+.card img{
+  width: 150px;
+  height: 140px;
+  border-radius: 50%;
+  margin-top: 10px;
+}
+
+/* Sub Pizza */
+.card-pizza {
+  display: inline-flex;
+  text-align: left;
+  margin-top: 20px;
+  border-top: 1px solid lightgrey;
+  border-bottom: 1px solid lightgrey;
+  padding: 10px;
+}
+.card-pizza img {
+  width: 200px;
+  height: 200px;
+  border-radius: 20px;
+  margin-top: 20px;
+}
+.button-order{
+  background-color: darkred;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  width: 100px; height: 30px;
+  cursor: pointer;
+}
+.description{
+  width: 500px;
+}
+h4{color: black;}
